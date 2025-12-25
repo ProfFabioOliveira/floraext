@@ -1,5 +1,5 @@
 FloraExt (v0.1)
-Este projeto contém o código-fonte do framework FloraExt (baseado no FLoRa https://flora.aalto.fi/ ) para simulação de redes LoRa/LoRaWAN no OMNeT++.
+Este projeto contém o código-fonte do framework FloraExt (baseado no FLoRa https://github.com/florasim/flora ) para simulação de redes LoRa/LoRaWAN no OMNeT++.
 
 Repositório Oficial: https://github.com/ProfFabioOliveira/floraext
 
