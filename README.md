@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>FloraExt</h1>
+  <h1>FLoRaExt</h1>
   <p>
     <strong>A Research Prototype for LoRa Network Simulation</strong>
   </p>
@@ -21,7 +21,7 @@
 <br>
 
 <p align="justify">
-  FloraExt is a research prototype framework currently under construction designed to enhance the accuracy of LoRa network simulations. Built upon <a href="https://flora.aalto.fi/" target="_blank"><b>FLoRa</b></a>, <a href="https://inet.omnetpp.org/" target="_blank"><b>INET</b></a>, and <a href="https://omnetpp.org/" target="_blank"><b>OMNeT++</b></a>, it introduces a validated propagation module and a systematic methodology for processing empirical field data to derive realistic simulation parameters. Although initially validated using data collected in dense tropical forests (Serra dos Órgãos National Park), this data-driven workflow is generalizable to other complex environments, such as urban areas or agricultural fields, ensuring higher reliability in network performance assessments.
+  FLoRaExt is a research prototype framework currently under construction designed to enhance the accuracy of LoRa network simulations. Built upon <a href="https://flora.aalto.fi/" target="_blank"><b>FLoRa</b></a>, <a href="https://inet.omnetpp.org/" target="_blank"><b>INET</b></a>, and <a href="https://omnetpp.org/" target="_blank"><b>OMNeT++</b></a>, it introduces a validated propagation module and a systematic methodology for processing empirical field data to derive realistic simulation parameters. Although initially validated using data collected in dense tropical forests (Serra dos Órgãos National Park), this data-driven workflow is generalizable to other complex environments, such as urban areas or agricultural fields, ensuring higher reliability in network performance assessments.
 </p>
 
 <hr>
@@ -67,7 +67,7 @@ make</code></pre>
   <li>Click <b>Install Project</b>.</li>
 </ol>
 
-<h3>3. FloraExt Setup</h3>
+<h3>3. FLoRaExt Setup</h3>
 <p>Clone the repository directly into your workspace:</p>
 <pre><code>git clone https://github.com/ProfFabioOliveira/floraext.git</code></pre>
 
