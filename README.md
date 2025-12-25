@@ -50,11 +50,14 @@
 <p>FloraExt requires OMNeT++ version <b>6.0.3</b>.</p>
 <ol>
   <li>Download <b>OMNeT++ 6.0.3 Core (Linux/tgz)</b> from the official website.</li>
-  <li>Extract and install via terminal (refer to <code>Install-guide.pdf</code>):</li>
-</ol>
-<pre><code>. setenv
+  <li>Extract and install via terminal. Please refer to the official <a href="https://doc.omnetpp.org/omnetpp/InstallGuide.pdf" target="_blank"><b>Install-guide.pdf</b></a> for detailed instructions.</li>
+  <li>
+    <pre><code>. setenv
 ./configure
 make</code></pre>
+  </li>
+  <li><i>Useful Resource: <a href="https://doc.omnetpp.org/omnetpp/manual/" target="_blank">OMNeT++ Simulation Manual</a>.</i></li>
+</ol>
 
 <h3>2. INET Framework 4.4.2</h3>
 <ol>
